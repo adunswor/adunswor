@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Name's Austin. Student of the human condition. I’m interested in the evolutionary processes that produced the vast complexity of emergent phenomena across space & time. Sometimes I tinker around with digital & virtual devices.
 
 <!--
 **adunswor/adunswor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
